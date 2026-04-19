@@ -9,8 +9,8 @@ title: Sample Documentation
 
 Click the links below to view the documentation:
 
-- Installation Guide
-- Release Notes
+- [Installation Guide](Installation-Guide.md)
+- [Release Notes](Release_Notes.md)
 
 <div style="clear: both;"></div>
 
