@@ -1,6 +1,12 @@
 ---
 title: Sample Documentation
 ---
+<table>
+  <tr>
+    <td style="width:120px; vertical-align: top;">
+      images/TW.png
+    </td>
+    <td style="padding-left:20px;">
 
 
 # Sample Documentation
