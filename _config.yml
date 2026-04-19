@@ -1,8 +1,16 @@
+title: HP AI Printer Driver
+description: Installation Guide and Release Notes
 theme: jekyll-theme-minimal
-nav:
-  - title: My Work Samples
-    url: /index.html
-  - title: Installation Guide
-    url: /Installation-Guide.html
-- title: Release Notes
-    url: /Release_Notes.html
+
+markdown: kramdown
+
+include:
+  - installation-guide.md
+  - release-notes.md
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
