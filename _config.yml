@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 nav:
-  - title: Release Notes
+  - title: My Work Samples
     url: /index.html
   - title: Installation Guide
     url: /Installation-Guide.html
+- title: Release Notes
+    url: /Release_Notes.html
