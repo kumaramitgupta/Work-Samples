@@ -1,4 +1,4 @@
-theme: jekyll-theme-name
+theme: jekyll-theme-minimal
 nav:
   - title: Release Notes
     url: /index.html
