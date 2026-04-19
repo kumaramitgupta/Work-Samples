@@ -1,12 +1,12 @@
-title: HP AI Printer Driver
-description: Installation Guide and Release Notes
+title: Technical Documentation – Work Sample
+description: This repository contains sample technical documentation created to demonstrate my technical writing capabilities.
 theme: jekyll-theme-minimal
 
 markdown: kramdown
 
 include:
-  - installation-guide.md
-  - release-notes.md
+    - release-notes.md
+    - installation-guide.md
 
 defaults:
   - scope:
