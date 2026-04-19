@@ -2,22 +2,15 @@
 title: Sample Documentation
 ---
 
-images/TW.png" width="90" style="float:left; margin-right:20px; margin-top:5px;">
+<img src="images/TW.png" alt="Logo" width="90"
+     style="float:left; margin-right:20px; margin-top:5px;" />
 
-# Technical Documentation – Work Sample
+# Sample Documentation
 
-This repository contains sample technical documentation created to demonstrate
-my technical writing capabilities.
+Click the links below to view the documentation:
 
-**Project Repository:**  
-https://github.com/kumaramitgupta/Work-Samples>
-
----
-
-## Sample Documentation
-
-- installation-guide.html
-- release-notes.html
+- Installation Guide
+- Release Notes
 
 <div style="clear: both;"></div>
 
