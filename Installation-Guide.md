@@ -48,5 +48,4 @@ Before installing the AI Driver Extension, you must first install the **Print Su
    ![](images/install-PSA.png)
 
 
-   # Release Notes Sample
-    - [Release Notes sample](index.md)
+
