@@ -47,4 +47,6 @@ Before installing the AI Driver Extension, you must first install the **Print Su
    - https://dev.azure.com/hpcodeway/clientSoftware/_build/results?buildId=8266182&view=artifacts&pathAsName=false&type=publishedArtifacts
    ![](images/install-PSA.png)
 
-2. Navigate to:  
+
+   ## Release Notes Sample
+    - [Release Notes sample](index.md)
