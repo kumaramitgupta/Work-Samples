@@ -138,4 +138,6 @@ The PreReceipt message payload is assembled from the following sources:
 | Table | 60464 | JM.New Lot Estimate | Updated primary key definition to Contract No. + CAI Metal Type. |
 
 ---
+## Other Sample Docs
 
+- [Installation-Guide](Installation-Guide.md)
