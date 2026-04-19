@@ -1,0 +1,6 @@
+theme: jekyll-theme-name
+nav:
+  - title: Home
+    url: /index.md
+  - title: Installation Guide
+    url: /Installation-Guide.md
