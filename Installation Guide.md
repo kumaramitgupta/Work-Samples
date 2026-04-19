@@ -40,5 +40,6 @@ Before installing the **AI Driver Extension**, first install the **Print Support
 
 1. Download the required packages:  
    https://dev.azure.com/hpcodeway/clientSoftware/_build/results?buildId=8266182&view=artifacts&pathAsName=false&type=publishedArtifacts
+   ![Figure](images/install-PSA.png)
 
 2.
