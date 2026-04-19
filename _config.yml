@@ -1,6 +1,6 @@
 theme: jekyll-theme-name
 nav:
   - title: Release Notes
-    url: /
+    url: /index.html
   - title: Installation Guide
     url: /Installation-Guide.html
