@@ -139,4 +139,3 @@ The PreReceipt message payload is assembled from the following sources:
 
 ---
 
-{% include links.html %}
