@@ -1,50 +1,86 @@
 ---
 layout: default
 ---
-# HP AI PRINTER DRIVER
-## Installation Guide
+# Mobile App Installation Guide
+
+## 1. Introduction
+This guide explains how to install the mobile application on Android and iOS devices.
+Follow the steps carefully to ensure a successful installation.
 
 ---
 
-> **HP Confidential**  
-> Information intended only for a limited audience. Includes most information relating to projects, technical data, research and development, prices paid by the Company, and most product or plan data. Confidential Information should be distributed using good business judgment and may be limited to people or entities having a need to know the information.
+## 2. Prerequisites
+Before installing the app, ensure the following:
+
+- A smartphone with internet access
+- A Google Play Store or Apple App Store account
+- Sufficient storage space on the device
 
 ---
 
-## Table of Contents
+## 3. Installing the App on Android
 
-- #introduction
-- #install-print-support-application-psa
-- #install-ai-driver-extension
-- #registry-association-process
-- #stage-changes
-- HP AI Printer Driver
-- #troubleshooting
-- #plugin-and-nativehost-setup
-- HP Smart Login
-- #uninstallation-steps
+### Steps
+1. Open the **Google Play Store** on your Android device.
+2. In the search bar, type the app name.
+3. Select the app from the search results.
+4. Tap **Install**.
+5. Wait for the installation to complete.
+
+Once installed, the app icon appears on your home screen.
 
 ---
 
-## Introduction
+## 4. Installing the App on iOS
 
-### Overview
-The HP AI Printer Driver installation guide explains the process of setting up the Print Support Application (PSA) to enhance printing efficiency with AI-driven features and optimized workflows. It provides step-by-step instructions to ensure seamless integration with the AI Driver, enabling smart print controls and high-quality document processing with minimal effort.
+### Steps
+1. Open the **App Store** on your iPhone.
+2. Tap the search icon.
+3. Enter the app name in the search field.
+4. Select the app from the list.
+5. Tap **Get** and authenticate if prompted.
 
-### Audience
-This document is intended for **Internal HP Teams**.
-
-### Prerequisite
-Before installing the AI Driver Extension, you must first install the **Print Support Application (PSA)**.
+The app is installed automatically after download.
 
 ---
 
-## Install Print Support Application (PSA)
+## 5. Launching the App
 
-### Installation Steps
+### Steps
+1. Locate the app icon on your device.
+2. Tap the icon to launch the app.
+3. Follow on‑screen instructions to complete setup.
 
-1. Download the required packages from the following link:  
-   - https://dev.azure.com/hpcodeway/clientSoftware/_build/results?buildId=8266182&view=artifacts&pathAsName=false&type=publishedArtifacts
+---
+
+## 6. Installation Issues
+
+| Issue | Solution |
+|------|----------|
+| App not installing | Check internet connection |
+| Insufficient storage | Free up device space |
+| App not found | Verify app name |
+
+---
+
+## 7. Uninstalling the App (Optional)
+
+### Steps
+1. Press and hold the app icon.
+2. Select **Uninstall** or **Remove App**.
+3. Confirm the action when prompted.
+
+---
+
+## 8. Revision History
+
+| Version | Date | Description |
+|--------|------|-------------|
+| 1.0 | 2026‑04‑27 | Initial installation guide |
+
+> [!NOTE]
+> Below image is irelevant but kept intensionnaly. i have not added scrrenshots to support installation steps.
+``
    ![](images/install-PSA.png)
 
 
