@@ -1,10 +1,6 @@
 ---
-layout: post
 title: API documentation sample
 ---
-
-*TOC
-{:toc}
 
 # User Management API
 
