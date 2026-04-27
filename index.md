@@ -13,6 +13,7 @@ Click the links below to view the documentation:
 
 - [Installation Guide](Installation-Guide.md)
 - [Release Notes](Release_Notes.md)
+- [API documentation sample](API Docs.md)
 
 <div style="clear: both;"></div>
 
