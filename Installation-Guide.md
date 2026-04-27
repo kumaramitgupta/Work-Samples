@@ -1,7 +1,17 @@
 ---
 layout: default
 ---
+
+
 # Mobile App Installation Guide
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc }
+
+* TOC
+{:toc}
+
 
 ## 1. Introduction
 This guide explains how to install the mobile application on Android and iOS devices.
