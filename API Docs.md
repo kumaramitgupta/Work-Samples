@@ -1,4 +1,3 @@
-
 ---
 title: API documentation sample
 ---
@@ -8,6 +7,8 @@ title: API documentation sample
 
 
 ## Table of Contents
+{: .no_toc 
+
 {:toc}
 
 
