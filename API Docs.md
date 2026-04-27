@@ -1,15 +1,72 @@
+
 ---
 title: API documentation sample
 ---
 
-# User Management API
-{: .no_toc }
+<style>
+.page-layout {
+  display: flex;
+  gap: 2rem;
+}
 
-## Table of Contents
-{: .no_toc }
+.content {
+  flex: 1;
+  max-width: 75%;
+}
 
-* TOC
-{:toc}
+.toc {
+  width: 25%;
+  position: sticky;
+  top: 80px;
+  height: max-content;
+  padding-left: 1rem;
+  border-left: 1px solid #ddd;
+  font-size: 0.9rem;
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.toc li {
+  margin-bottom: 0.4rem;
+}
+
+.toc a {
+  text-decoration: none;
+  color: #0366d6;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .page-layout {
+    flex-direction: column;
+  }
+
+  .content {
+    max-width: 100%;
+  }
+
+  .toc {
+    position: relative;
+    width: 100%;
+    border-left: none;
+    padding-left: 0;
+    margin-top: 2rem;
+  }
+}
+</style>
+
+<div class="page-layout">
+
+<div class="content">
+
+# User Manag
+
 
 ## Overview
 The User Management API provides endpoints to create, retrieve, update, and delete user accounts.
