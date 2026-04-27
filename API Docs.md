@@ -6,9 +6,11 @@ title: API documentation sample
 {: .no_toc 
 
 
-## Table of Contents
-{: .no_toc 
 
+## Table of Contents
+{: .no_toc }
+
+* TOC
 {:toc}
 
 
