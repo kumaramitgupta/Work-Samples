@@ -8,6 +8,12 @@ title: Release Notes
 
 ---
 
+## Table of Contents
+{: .no_toc }
+
+* TOC
+{:toc}
+
 ## Overview  
 
 This release completes the **Customer Lot from Hold Inventory** feature by implementing the missing **Mets Hold Pre‑Receipt** components required by TrakSYS.
