@@ -3,6 +3,13 @@ title: User guide sample
 ---
 
 # Alarm Clock App – User Guide
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc }
+
+* TOC
+{:toc}
 
 ## 1. Introduction
 The Alarm Clock app allows users to set alarms for daily activities such as waking up, reminders, or scheduled tasks.
