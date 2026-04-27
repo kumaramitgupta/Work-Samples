@@ -4,6 +4,9 @@ title: API documentation sample
 
 # User Management API
 
+## Table of Contents
+{:toc}
+
 ## Overview
 The User Management API provides endpoints to create, retrieve, update, and delete user accounts.
 It follows RESTful principles and uses standard HTTP methods and status codes.
