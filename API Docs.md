@@ -1,6 +1,7 @@
 ---
 title: API documentation sample
 ---
+{: .no_toc}
 
 *TOC
 {:toc}
