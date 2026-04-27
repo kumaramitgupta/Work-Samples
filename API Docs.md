@@ -1,7 +1,7 @@
----
-title: API documentation sample
 *TOC
 {:toc}
+---
+title: API documentation sample
 ---
 
 # User Management API
