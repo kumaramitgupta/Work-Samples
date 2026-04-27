@@ -1,3 +1,6 @@
+---
+title: API documentation sample
+---
 # User Management API
 
 ## Overview
