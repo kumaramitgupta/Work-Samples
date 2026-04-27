@@ -1,7 +1,4 @@
 ---
-layout: single
-toc: true
-toc_label: "on this page"
 title: API documentation sample
 ---
 
