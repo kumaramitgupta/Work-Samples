@@ -80,8 +80,9 @@ The app is installed automatically after download.
 
 > [!NOTE]
 > Below image is irelevant but kept intensionnaly. i have not added scrrenshots to support installation steps.
+ ![](images/install-PSA.png)
 ``
-   ![](images/install-PSA.png)
+   
 
 
 
