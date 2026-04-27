@@ -2,8 +2,7 @@
 title: API documentation sample
 ---
 
-*TOC
-{:toc}
+# User Management API
 
 ## Overview
 The User Management API provides endpoints to create, retrieve, update, and delete user accounts.
