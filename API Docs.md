@@ -65,7 +65,9 @@ title: API documentation sample
 
 <div class="content">
 
-# User Manag
+# User Management API
+{: .no_toc 
+
 
 
 ## Overview
