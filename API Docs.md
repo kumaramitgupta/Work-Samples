@@ -5,6 +5,8 @@ title: API documentation sample
 # User Management API
 
 ## Table of Contents
+
+* TOC
 {:toc}
 
 ## Overview
