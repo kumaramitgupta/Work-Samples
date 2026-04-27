@@ -3,8 +3,10 @@ title: API documentation sample
 ---
 
 # User Management API
+{: .no_toc }
 
 ## Table of Contents
+{: .no_toc }
 
 * TOC
 {:toc}
