@@ -1,11 +1,10 @@
 ---
+layout: post
 title: API documentation sample
 ---
-{: .no_toc}
 
 *TOC
 {:toc}
-
 
 # User Management API
 
