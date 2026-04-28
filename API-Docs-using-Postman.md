@@ -3,4 +3,4 @@ title: API Documentation Sample using Postman
 ---
 
 # API Documentation Sample using Postman
-View the full API docs here: [click here](https://documenter.getpostman.com/view/54363042/2sBXqJJfRr)
+View the full API docs here: **[click here](https://documenter.getpostman.com/view/54363042/2sBXqJJfRr)**
