@@ -15,7 +15,7 @@ Click the links below to view the documentation:
 - [Release Notes](Release_Notes.md)
 - [API Documentation Sample](API Docs.md)
 - [User Guide Sample](User guide.md)
-- [API Documentation using Postman Tool](API-Documentation-using Postman)
+- [API Documentation using Postman Tool](API-Docs-using Postman.md)
 
 <div style="clear: both;"></div>
 
