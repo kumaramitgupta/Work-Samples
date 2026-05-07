@@ -16,6 +16,7 @@ Click the links below to view the documentation:
 - [API Documentation Sample](API Docs.md)
 - [User Guide Sample](User guide.md)
 - [API Documentation using Postman Tool](API-Docs-using-Postman.md)
+- [Sample Demo Video with Voiceover](Video-creation-sample.md)
 
 <div style="clear: both;"></div>
 
