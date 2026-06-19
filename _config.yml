@@ -5,13 +5,14 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 
 include:
+
     - [Installation Guide](Installation-Guide.md)
     - [Release Notes](Release_Notes.md)
     - [API Documentation Sample](API Docs.md)
     - [User Guide Sample](User guide.md)
     - [API Documentation using Postman Tool](API-Docs-using-Postman.md)
     - [Sample Demo Video with Voice over](Video-creation-sample.md)
-    - [test_intro](intro.md)
+    - [test](intro.md)
 
 defaults:
   - scope:
