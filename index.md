@@ -17,7 +17,7 @@ Click the links below to view the documentation:
 - [User Guide Sample](User guide.md)
 - [API Documentation using Postman Tool](API-Docs-using-Postman.md)
 - [Sample Demo Video with Voiceover](Video-creation-sample.md)
-- [Dita](Intro.md)
+- [Dita](intro.md)
 
 <div style="clear: both;"></div>
 
