@@ -11,6 +11,7 @@ include:
     - [User Guide Sample](User guide.md)
     - [API Documentation using Postman Tool](API-Docs-using-Postman.md)
     - [Sample Demo Video with Voice over](Video-creation-sample.md)
+    - [test](intro.md)
 
 defaults:
   - scope:
