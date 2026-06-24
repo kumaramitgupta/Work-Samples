@@ -1,18 +1,15 @@
-title: Technical Documentation – Work Sample
-description: This repository contains sample technical documentation created to demonstrate my technical writing capabilities.
+title: "Technical Documentation — Work Sample"
+description: "This repository contains sample technical documentation created to demonstrate my technical writing capabilities."
 theme: jekyll-theme-minimal
-
 markdown: kramdown
 
 include:
-
-    - [Installation Guide](Installation-Guide.md)
-    - [Release Notes](Release_Notes.md)
-    - [API Documentation Sample](API Docs.md)
-    - [User Guide Sample](User guide.md)
-    - [API Documentation using Postman Tool](API-Docs-using-Postman.md)
-    - [Sample Demo Video with Voice over](Video-creation-sample.md)
-   
+  - "Installation-Guide.md"
+  - "Release_Notes.md"
+  - "API Docs.md"
+  - "User guide.md"
+  - "API-Docs-using-Postman.md"
+  - "Video-creation-sample.md"
 
 defaults:
   - scope:
