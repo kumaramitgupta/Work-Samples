@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 ---
 
 
@@ -87,8 +87,3 @@ The app is installed automatically after download.
 | Version | Date | Description |
 |--------|------|-------------|
 | 1.0 | 2026‑04‑27 | Initial installation guide |
-``
-   
-
-
-
