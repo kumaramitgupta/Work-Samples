@@ -88,10 +88,6 @@ The app is installed automatically after download.
 |--------|------|-------------|
 | 1.0 | 2026‑04‑27 | Initial installation guide |
 
-
-> [!NOTE]
-> Below image is irelevant but kept intensionnaly. i have not added screenshots to support installation steps.
- ![](images/install-PSA.png)
 ``
    
 
